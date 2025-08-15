@@ -50,7 +50,8 @@ The dashboard is built using the provided dataset `Phone Sales.xlsx` and is avai
 
 
 📌 Insights from the Dashboard
-Identify top-performing products and brands.
-Understand sales seasonality and trends over time.
-Compare brand performance and revenue share.
-Pinpoint potential growth areas based on historical data.
+
+- Identify top-performing products and brands.
+- Understand sales seasonality and trends over time.
+- Compare brand performance and revenue share.
+- Pinpoint potential growth areas based on historical data.
