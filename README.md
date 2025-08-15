@@ -2,7 +2,7 @@
 
 This project presents an interactive Power BI Report analyzing mobile phone sales data. The goal is to visualize sales performance, identify trends, and provide insights for data-driven decision-making.  
 
-The dashboard is built using the provided dataset `Phone Sales.xlsx` and is available in the `.pbix` format (`Phone Sales Analysis.pbix`). It showcases data modeling, visual design, and interactive analytics capabilities.
+The report is built using the provided dataset `Phone Sales.xlsx` and is available in the `.pbix` format (`Phone Sales Analysis.pbix`). It showcases data modeling, visual design, and interactive analytics capabilities.
 
 ---
 
